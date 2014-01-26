@@ -95,6 +95,7 @@ Library
                        Aws.Ses.Core,
                        Aws.DynamoDb.Commands,
                        Aws.DynamoDb.Commands.Table,
+                       Aws.DynamoDb.Commands.Items,
                        Aws.DynamoDb.Core
 
   Build-depends:
